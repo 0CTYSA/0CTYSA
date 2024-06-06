@@ -22,8 +22,8 @@ My daily grind involves penetration testing, securing networks, reverse engineer
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=0CTYSA&show_icons=true&theme=dark" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=0CTYSA&theme=dark"/></td>
   </tr>
 </table>
 
