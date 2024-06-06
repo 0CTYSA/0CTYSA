@@ -1,8 +1,12 @@
-# 🕵️‍♂️ Welcome to the Hacker's Den!
+<div align="center">
+
+![image](https://github.com/0CTYSA/0CTYSA/assets/119985966/5bb44b0b-ec93-47cd-ae9f-eb525def28a7)
+</div>
+
 
 ## 👤 Who am I?
 
-As a cybersecurity enthusiast, I thrive in the thrill of both unraveling and fortifying the digital world. My expertise spans across ethical hacking, securing cyberspaces, and developing tools that protect against the most cunning digital threats. My mission is to dive deep into the cyber abyss and emerge with solutions that ensure robust digital safety and security.
+As a cybersecurity enthusiast, I thrive on the thrill of unraveling and fortifying the digital world. My expertise spans ethical hacking, securing cyberspaces, and developing tools that protect against cunning digital threats. My mission is to dive deep into the cyber abyss and emerge with solutions that ensure robust digital safety and security.
 
 ## 🧰 My Toolbox
 
@@ -16,15 +20,13 @@ Armed with an arsenal of tools, I tackle various challenges in the cybersecurity
 
 ## 🌐 Hacking My Way Through
 
-My daily grind involves penetration testing, securing networks, reverse engineering malware, and constantly challenging myself with the latest in cybersecurity puzzles. The goal? To outsmart both virtual and real-world threats.
+My daily grind involves penetration testing, securing networks, reverse engineering malware, and constantly challenging myself with the latest cybersecurity puzzles. The goal? To outsmart both virtual and real-world threats.
 
 ## 📈 Stats & Trophies
 
 <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=0CTYSA&show_icons=true&theme=dark" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=0CTYSA&theme=dark"/></td>
-  </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=0CTYSA&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
+        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=0CTYSA&theme=dark" alt="GitHub Streak Stats"/></td>
+    </tr>
 </table>
-
----
