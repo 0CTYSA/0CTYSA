@@ -20,7 +20,7 @@ Armed with an arsenal of tools, I tackle various challenges in the cybersecurity
 
 ## 🌐 Hacking My Way Through
 
-My daily grind involves penetration testing, securing networks, reverse engineering malware, and constantly challenging myself with the latest cybersecurity puzzles. The goal? To outsmart both virtual and real-world threats.
+My daily efforts are centered on detecting and neutralizing cyber threats to ensure the digital security of various systems. I am dedicated to monitoring digital activities and implementing defensive strategies that protect against sophisticated cyber attacks. Each day brings a new set of challenges, pushing me to remain vigilant and proactive in managing the latest security threats to maintain the safety and integrity of client data and infrastructures."
 
 ## 📈 Stats & Trophies
 
